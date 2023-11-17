@@ -1,0 +1,308 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "sliderImages": [
+    "https://www.boat-lifestyle.com/cdn/shop/files/Festive-Banner-Desk_1600x.jpg?v=1699633584",
+    "https://www.boat-lifestyle.com/cdn/shop/files/Personalization_Desk_1440x.png?v=1698928779",
+    "https://www.boat-lifestyle.com/cdn/shop/files/Rockerz_110_Homepage_banner_WEB_1440x.jpg?v=1699590221",
+    "https://www.boat-lifestyle.com/cdn/shop/files/1440x602_39694f8e-f18d-45d4-992a-253308275921_1440x.jpg?v=1698931152",
+    "https://www.boat-lifestyle.com/cdn/shop/files/Crest-banner-dark-desktop_1600x.png?v=1699269025",
+    "https://www.boat-lifestyle.com/cdn/shop/files/LNT_WEB_1440x.jpg?v=1698230264"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Airdopes 131",
+      "newPrice": 849,
+      "oldPrice": 2990,
+      "discount": "72%",
+      "category": "True Wireless Earbuds",
+      "playBack": "60 Hours Playback",
+      "featurs": ["13mm drivers", "IWP Technology"],
+      "Rating": { "stars": 4.8, "count": 1336 },
+      "isAvailable": true,
+      "engravingAvailable": true,
+      "detail":"Wireless Earbuds with upto 60 Hours Playback, 13mm Drivers, IWP Technology, 650mAh Charging Case",
+      "bestSeller": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Flipkart.png?v=1691406536",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/616b4ead-bbd9-4a16-aeab-8d331a16f697_600x.png?v=1642405569",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ad131FIAD131TypeCcopy_800x.jpg?v=1685356543",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/FeatureImagesAD131BV5.0copy_800x.jpg?v=1685356543",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/FeatureImagesAD131VAcopy_800x.jpg?v=1685356543"
+      ],
+      "waranty": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334305_small.svg?v=1682336123",
+        "time": "1 Year Warranty"
+      },
+      "replavement": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334304_small.svg?v=1682336123",
+        "time": "7-day Replacement"
+      },
+      "shipping": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334303_small.svg?v=1682336123",
+        "type": "Free Shipping"
+      },
+      "gst": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334302_small.svg?v=1682336123",
+        "type": "GST Billing"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Airdopes Atom 83",
+      "newPrice": 1499,
+      "oldPrice": 3490,
+      "discount": "57%",
+      "category": "True Wireless Earbuds",
+      "playBack": "50 Hours Playback",
+      "featurs": ["13mm drivers", "IWP Technology"],
+      "Rating": { "stars": 4.6, "count": 24 },
+      "isAvailable": false,
+      "engravingAvailable": false,
+      "detail":"Wireless Earbuds with 8mm drivers, Upto 42 Hours Playback, ENx™ Technology, IPX4 Water Resistance",
+      "bestSeller": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Flipkart.png?v=1691406536",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Airdopes-Atom-83.jpg?v=1682576552",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/green_cf1f4b3d-6090-47ac-8583-d211b82a977a_800x.png?v=1685518054",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black05_800x.png?v=1689581990",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black04_800x.png?v=1689581990",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black03_800x.png?v=1689581990",
+        "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black02_800x.png?v=1689581990"
+      ],
+      "waranty": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334305_small.svg?v=1682336123",
+        "time": "1 Year Warranty"
+      },
+      "replavement": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334304_small.svg?v=1682336123",
+        "time": "7-day Replacement"
+      },
+      "shipping": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334303_small.svg?v=1682336123",
+        "type": "Free Shipping"
+      },
+      "gst": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334302_small.svg?v=1682336123",
+        "type": "GST Billing"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nirvana Ion",
+      "newPrice": 2299,
+      "oldPrice": 7990,
+      "discount": "71%",
+      "category": "Personalized Products",
+      "playBack": "120 Hours Playback",
+      "featurs": ["ENx Technology", "BEAST Mode", "Dual EQ Modes"],
+      "Rating": { "stars": 5, "count": 55 },
+      "isAvailable": true,
+      "engravingAvailable": false,
+      "detail":"Bluetooth Wireless Earbuds with Crystal Bionic Sound powered by HiFi®️ DSP, 120 Hours Playback, Dual EQ Modes, Quad Mics with ENx™ Technology",
+      "bestSeller": "",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745",
+      "images": [
+        "https://www.boat-lifestyle.com/cdn/shop/products/ion-W_800x.png?v=1678780574",
+        "https://www.boat-lifestyle.com/cdn/shop/products/NirvanaION-FI_White02-a_800x.png?v=1678963714",
+        "https://www.boat-lifestyle.com/cdn/shop/products/NirvanaION-FI_White02-b_800x.png?v=1678963714",
+        "https://www.boat-lifestyle.com/cdn/shop/products/Crystal_800x.jpg?v=1678963714",
+        "https://www.boat-lifestyle.com/cdn/shop/products/Beast_800x.jpg?v=1678963714"
+      ],
+      "waranty": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334305_small.svg?v=1682336123",
+        "time": "1 Year Warranty"
+      },
+      "replavement": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334304_small.svg?v=1682336123",
+        "time": "7-day Replacement"
+      },
+      "shipping": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334303_small.svg?v=1682336123",
+        "type": "Free Shipping"
+      },
+      "gst": {
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334302_small.svg?v=1682336123",
+        "type": "GST Billing"
+      }
+    }
+  ],
+  "category": {
+    "wirelessEarbuds": [
+      {
+        "id": 1,
+        "name": "Airdopes 131",
+        "newPrice": 849,
+        "oldPrice": 2990,
+        "discount": "72%",
+        "category": "True Wireless Earbuds",
+        "playBack": "60 Hours Playback",
+        "featurs": ["13mm drivers", "IWP Technology"],
+        "Rating": { "stars": 4.8, "count": 1336 },
+        "isAvailable": true,
+        "engravingAvailable": true,
+        "bestSeller": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Flipkart.png?v=1691406536",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/616b4ead-bbd9-4a16-aeab-8d331a16f697_600x.png?v=1642405569",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ad131FIAD131TypeCcopy_800x.jpg?v=1685356543",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/FeatureImagesAD131BV5.0copy_800x.jpg?v=1685356543",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/FeatureImagesAD131VAcopy_800x.jpg?v=1685356543"
+        ],
+        "waranty": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334305_small.svg?v=1682336123",
+          "time": "1 Year Warranty"
+        },
+        "replavement": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334304_small.svg?v=1682336123",
+          "time": "7-day Replacement"
+        },
+        "shipping": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334303_small.svg?v=1682336123",
+          "type": "Free Shipping"
+        },
+        "gst": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334302_small.svg?v=1682336123",
+          "type": "GST Billing"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Airdopes Atom 83",
+        "newPrice": 1499,
+        "oldPrice": 3490,
+        "discount": "57%",
+        "category": "True Wireless Earbuds",
+        "playBack": "50 Hours Playback",
+        "featurs": ["13mm drivers", "IWP Technology"],
+        "Rating": { "stars": 4.6, "count": 24 },
+        "isAvailable": false,
+        "engravingAvailable": false,
+        "bestSeller": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Flipkart.png?v=1691406536",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/boAt-Airdopes-Atom-83.jpg?v=1682576552",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/green_cf1f4b3d-6090-47ac-8583-d211b82a977a_800x.png?v=1685518054",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black05_800x.png?v=1689581990",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black04_800x.png?v=1689581990",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black03_800x.png?v=1689581990",
+          "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ADATOM81-FI_Black02_800x.png?v=1689581990"
+        ],
+        "waranty": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334305_small.svg?v=1682336123",
+          "time": "1 Year Warranty"
+        },
+        "replavement": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334304_small.svg?v=1682336123",
+          "time": "7-day Replacement"
+        },
+        "shipping": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334303_small.svg?v=1682336123",
+          "type": "Free Shipping"
+        },
+        "gst": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334302_small.svg?v=1682336123",
+          "type": "GST Billing"
+        }
+      }
+    ],
+    "personalizedProducts": [
+      {
+        "id": 3,
+        "name": "Nirvana Ion",
+        "newPrice": 2299,
+        "oldPrice": 7990,
+        "discount": "71%",
+        "category": "Personalized Products",
+        "playBack": "120 Hours Playback",
+        "featurs": ["ENx Technology", "BEAST Mode", "Dual EQ Modes"],
+        "Rating": { "stars": 5, "count": 55 },
+        "isAvailable": false,
+        "engravingAvailable": false,
+        "bestSeller": "",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745",
+        "images": [
+          "https://www.boat-lifestyle.com/cdn/shop/products/ion-W_800x.png?v=1678780574",
+          "https://www.boat-lifestyle.com/cdn/shop/products/NirvanaION-FI_White02-a_800x.png?v=1678963714",
+          "https://www.boat-lifestyle.com/cdn/shop/products/NirvanaION-FI_White02-b_800x.png?v=1678963714",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Crystal_800x.jpg?v=1678963714",
+          "https://www.boat-lifestyle.com/cdn/shop/products/Beast_800x.jpg?v=1678963714"
+        ],
+        "waranty": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334305_small.svg?v=1682336123",
+          "time": "1 Year Warranty"
+        },
+        "replavement": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334304_small.svg?v=1682336123",
+          "time": "7-day Replacement"
+        },
+        "shipping": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334303_small.svg?v=1682336123",
+          "type": "Free Shipping"
+        },
+        "gst": {
+          "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Group_334302_small.svg?v=1682336123",
+          "type": "GST Billing"
+        }
+      }
+    ]
+  },
+  "faq": [
+    {
+      "id": 1,
+      "question": "WDo wireless earbuds work with all phones?",
+      "answer": "Yes, our wireless earbuds work with all phones with Bluetooth. boAt Airdopes connect instantly and give a seamless connection for the ultimate musical experience."
+    },
+    {
+      "id": 2,
+      "question": "What is the difference between wireless and truly wireless earbuds?",
+      "answer": "Wireless earbuds are audio devices that connect to your Phone/Tablet/PC wirelessly, and the left and the right earpiece are connected via a wire. Truly wireless earbuds on the other hand have no wires at all."
+    },
+    {
+      "id": 3,
+      "question": "Can wireless earbuds be used individually?",
+      "answer": "Yes, wireless earphones can be used individually. With wireless earbuds, you can keep one in the case and one plugged in your ear and still use it to groove to your music."
+    },
+    {
+      "id": 4,
+      "question": "How to know that wireless earbuds are fully charged?",
+      "answer": "boAt Airdopes will have led indicators on the charging case to show if the battery is fully charged. The LED indicators on the wireless earbuds vary from model to model. Please refer to the manual of the earbuds in the respective packaging for precise instructions."
+    },
+    {
+      "id": 5,
+      "question": "How long does earbuds' battery last?",
+      "answer": "boAt earbuds battery backup varies from model to model. It also gets affected by the volume at which you listen to music on your wireless earbuds. Please refer to the manual of the earbuds in the respective packaging for precise specifications."
+    },
+    {
+      "id": 6,
+      "question": "Is there a warranty for the product? How do I claim the warranty?",
+      "answer": "Yes, all of our wireless speakers come with a 1-year warranty. To register your device, visit https://support.boat-lifestyle.com/."
+    }
+  ],
+  "videos": [
+    {
+      "category": "Smartwatches",
+      "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_RUxbhR7CvjkNtlFUDxgw9.mp4"
+    },
+    {
+      "category": "Wireless Earbuds",
+      "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_Bejc8URjU1NSXdhabLCmD.mp4"
+    },
+    {
+      "category": "Neckbands",
+      "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_OyJHanx4QSdUN3OVGTO7C.mp4"
+    },
+    {
+      "category": "Headphones",
+      "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_CpsRIdJWtpXyFN3enwbXd.mp4"
+    },
+    {
+      "category": "Wireless Speakers",
+      "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_j1TwOEeceKYOJc7d7mAim.mp4"
+    }
+  ]
+}

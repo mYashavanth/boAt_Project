@@ -1,0 +1,13 @@
+.parentContainer {
+  color: white;
+  height: 80px;
+  width: 95%;
+  margin: auto;
+}
+.ParentDiv {
+  background-color: white;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}

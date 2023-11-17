@@ -12,6 +12,7 @@ import {
   ModalOverlay,
   Text,
   useDisclosure,
+  useToast,
 } from "@chakra-ui/react";
 import { ArrowForwardIcon } from "@chakra-ui/icons";
 import { AuthContext } from "../Context/AuthContextProvider";
@@ -19,6 +20,7 @@ import { Navigate } from "react-router-dom";
 
 export default function AddToCart({ ele }) {
   const { isOpen, onOpen, onClose } = useDisclosure();
+  const toast = useToast();
   const { cartData, setCartData, details, setDetails } =
     useContext(AuthContext);
 
@@ -27,7 +29,17 @@ export default function AddToCart({ ele }) {
   const [flag, setFlag] = useState(false);
 
   function handleClick() {
-    setCartData([...cartData, { "id": Date.now()+ ele.name + Math.random(), "data": ele }]);
+    setCartData([
+      ...cartData,
+      { id: Date.now() + ele.name + Math.random(), data: ele },
+    ]);
+    toast({
+      title: "Added Successfully",
+      description: "Your Product is Successfully Added to Cart .",
+      status: "success",
+      duration: 2000,
+      isClosable: true,
+    });
   }
   function handleClickText() {
     setDetails(ele);

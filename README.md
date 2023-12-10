@@ -73,19 +73,20 @@ Check out the live demo of the boAt Clone App here.
 
 
 ## Screenshots
-![LandingPage](./final%20images/LandingPage.png)
-![ProductVideos](./final%20images/ProductVideos.png)
-![Footer](./final%20images/Footer.png)
-![Categories](./final%20images/Categories.png)
-![Products](./final%20images/Products.png)
-![AddtoCart](./final%20images/AddtoCart.png)
-![ProductDetails](./final%20images/ProductDetails.png)
-![Login](./final%20images/Login.png)
-![LoginPage](./final%20images/LoginPage.png)
-![Cart](./final%20images/Cart.png)
-![LoginFromCart](./final%20images/LoginFromCart.png)
-![AfterLoginInCart](./final%20images/AfterLoginInCart.png)
-![finalStepinOrder](./final%20images/finalStepinOrder.png)
+<img src="./final%20images/LandingPage.png" alt="LandingPage"/>
+<img src="./final%20images/ProductVideos.png" alt="ProductVideos"/>
+<img src="./final%20images/Footer.png" alt="Footer"/>
+<img src="./final%20images/Categories.png" alt="Categories"/>
+<img src="./final%20images/Products.png" alt="Products"/>
+<img src="./final%20images/AddtoCart.png" alt="AddtoCart"/>
+<img src="./final%20images/ProductDetails.png" alt="ProductDetails"/>
+<img src="./final%20images/Login.png" alt="Login"/>
+<img src="./final%20images/LoginPage.png" alt="LoginPage"/>
+<img src="./final%20images/Cart.png" alt="Cart"/>
+<img src="./final%20images/LoginFromCart.png" alt="LoginFromCart"/>
+<img src="./final%20images/AfterLoginInCart.png" alt="AfterLoginInCart"/>
+<img src="./final%20images/finalStepinOrder.png" alt="finalStepinOrder"/>
+
 
 ## Navigation Bar
 The navigation bar is available across all pages and includes various elements for easy navigation.

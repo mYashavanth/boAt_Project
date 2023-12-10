@@ -87,6 +87,20 @@ Check out the live demo of the boAt Clone App here.
 <img src="./final%20images/AfterLoginInCart.png" alt="AfterLoginInCart"/>
 <img src="./final%20images/finalStepinOrder.png" alt="finalStepinOrder"/>
 
+<!-- ![LandingPage](./final%20images/LandingPage.png)
+![ProductVideos](./final%20images/ProductVideos.png)
+![Footer](./final%20images/Footer.png)
+![Categories](./final%20images/Categories.png)
+![Products](./final%20images/Products.png)
+![AddtoCart](./final%20images/AddtoCart.png)
+![ProductDetails](./final%20images/ProductDetails.png)
+![Login](./final%20images/Login.png)
+![LoginPage](./final%20images/LoginPage.png)
+![Cart](./final%20images/Cart.png)
+![LoginFromCart](./final%20images/LoginFromCart.png)
+![AfterLoginInCart](./final%20images/AfterLoginInCart.png)
+![finalStepinOrder](./final%20images/finalStepinOrder.png) -->
+
 
 ## Navigation Bar
 The navigation bar is available across all pages and includes various elements for easy navigation.

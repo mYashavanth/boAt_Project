@@ -73,19 +73,19 @@ Check out the live demo of the boAt Clone App here.
 
 
 ## Screenshots
-![Landing](./final%20images/LandingPage.png)
-![Landing](./final%20images/ProductVideos.png)
-![Landing](./final%20images/Footer.png)
-![Landing](./final%20images/Categories.png)
-![Landing](./final%20images/Products.png)
-![Landing](./final%20images/AddtoCart.png)
-![Landing](./final%20images/ProductDetails.png)
-![Landing](./final%20images/Login.png)
-![Landing](./final%20images/LoginPage.png)
-![Landing](./final%20images/Cart.png)
-![Landing](./final%20images/LoginFromCart.png)
-![Landing](./final%20images/AfterLoginInCart.png)
-![Landing](./final%20images/finalStepinOrder.png)
+![LandingPage](./final%20images/LandingPage.png)
+![ProductVideos](./final%20images/ProductVideos.png)
+![Footer](./final%20images/Footer.png)
+![Categories](./final%20images/Categories.png)
+![Products](./final%20images/Products.png)
+![AddtoCart](./final%20images/AddtoCart.png)
+![ProductDetails](./final%20images/ProductDetails.png)
+![Login](./final%20images/Login.png)
+![LoginPage](./final%20images/LoginPage.png)
+![Cart](./final%20images/Cart.png)
+![LoginFromCart](./final%20images/LoginFromCart.png)
+![AfterLoginInCart](./final%20images/AfterLoginInCart.png)
+![finalStepinOrder](./final%20images/finalStepinOrder.png)
 
 ## Navigation Bar
 The navigation bar is available across all pages and includes various elements for easy navigation.

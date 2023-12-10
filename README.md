@@ -1,70 +1,129 @@
-# Getting Started with Create React App
+# boAt Clone App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive clone of the boAt website with a focus on showcasing audio products.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Demo](#demo)
+- [Screenshots](#screenshots)
+- [Navigation Bar](#navigation-bar)
+- [Landing Page Components](#landing-page-components)
+  - [Image Slider](#image-slider)
+  - [Product Videos](#product-videos)
+- [Categories and Product Pages](#categories-and-product-pages)
+  - [Category Section](#category-section)
+  - [Product View](#product-view)
+  - [Product Details](#product-details)
+- [FAQ Section](#faq-section)
+- [Adding to Cart](#adding-to-cart)
+- [Search Bar](#search-bar)
+- [Cart Functionality](#cart-functionality)
+- [Order Process](#order-process)
+- [Login](#login)
+- [Footer](#footer)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Welcome to the boAt Clone App! This project aims to replicate the boAt website, providing a user-friendly interface for exploring and discovering audio products.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Browse and view a variety of audio products.
+- Detailed product pages with specifications and images.
+- User authentication for personalized experiences.
+- Cart functionality for adding products and making purchases.
+- Responsive design for a seamless experience across devices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- HTML
+- CSS
+- JavaScript
+- React
+- Chakra UI
+- Vercel
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone the repository:**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/mYashavanth/boAt_Project.git
 
-### `npm run eject`
+2. **Install dependencies:**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ```bash
+    npm install
+3. **Run the application:**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    ```bash
+    npm start
+- This will launch the application on http://localhost:3000.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Demo
+Check out the live demo of the boAt Clone App here.
+[Visit Demo](https://bo-at-project.vercel.app/products)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Screenshots
+![Landing](./final%20images/LandingPage.png)
+![Landing](./final%20images/ProductVideos.png)
+![Landing](./final%20images/Footer.png)
+![Landing](./final%20images/Categories.png)
+![Landing](./final%20images/Products.png)
+![Landing](./final%20images/AddtoCart.png)
+![Landing](./final%20images/ProductDetails.png)
+![Landing](./final%20images/Login.png)
+![Landing](./final%20images/LoginPage.png)
+![Landing](./final%20images/Cart.png)
+![Landing](./final%20images/LoginFromCart.png)
+![Landing](./final%20images/AfterLoginInCart.png)
+![Landing](./final%20images/finalStepinOrder.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Navigation Bar
+The navigation bar is available across all pages and includes various elements for easy navigation.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Landing Page Components
+### Image Slider
+The landing page features an image slider that automatically transitions between images and allows users to manually navigate using next and previous buttons.
 
-### Code Splitting
+### Product Videos
+A section showcasing product videos. Videos play on hover, providing an engaging preview of featured products.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Categories and Product Pages 
+### Category Section
+Hovering over the category section reveals details about all available categories. Clicking on a category redirects to the categories page.
 
-### Analyzing the Bundle Size
+### Product View
+On the category page, each product has a "View Product" button. Clicking on this button redirects users to the product details page.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Product Details
+The product details page provides comprehensive information about a specific product. Users can add the product to their cart if available. If the product is out of stock, a "Notify Me" button is displayed. Clicking on this button prompts users to enter their mobile number, and upon submission, they are notified when the product becomes available.
 
-### Making a Progressive Web App
+### FAQ Section
+The products page includes a FAQ section that provides answers to common questions. Users can find detailed information about product-related queries in this section.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Adding to Cart
+From the product details page, users can directly add the product to their cart by clicking the "Add to Cart" button. This streamlines the shopping experience for users interested in purchasing the product immediately.
 
-### Advanced Configuration
+## Search Bar
+The search bar allows users to search for specific products. On submitting a search query, users are redirected to the products page, where they can find relevant products based on their search.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Cart Functionality
+Clicking on the cart icon opens a drawer displaying all the products added to the cart. Users can remove items directly from the cart. If the customer is logged in, they can proceed to the order directly. Otherwise, they can log in from the cart and continue with the order process.
 
-### Deployment
+## Order Process
+After reviewing the cart, customers can click the "Order" button. This redirects them to a page displaying the order summary and asking for customer details. Once the details are provided, customers can place the order, and the products will be delivered to the specified address.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Login
+Clicking on the login icon in the navigation bar opens a login modal or page. Users can enter their credentials to log in and access personalized features.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Footer
+The footer component contains essential links, information, and contact details.

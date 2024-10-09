@@ -156,6 +156,12 @@ After reviewing the cart, customers can click the "Order" button. This redirects
 ## Login
 
 Clicking on the login icon in the navigation bar opens a login modal or page. Users can enter their credentials to log in and access personalized features.
+```
+login credentials
+"email": "eve.holt@reqres.in",
+"password": "cityslicka"
+```
+
 
 ### Footer
 
